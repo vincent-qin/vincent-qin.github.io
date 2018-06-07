@@ -1,0 +1,96 @@
+###-------------Postdocs---------------------
+      
+
+      
+###-------------PhD Students---------------------
+
+- name: Yanqin Chen
+  image: yanqinchen.jpg
+  text: PhD Candidate, THU
+  social:
+    - title: envelope #use for email address
+      url: mailto:wychao1987@gmail.com    
+    - title: link
+      url: https://weiyc.github.io/
+
+- name: Xiaoyu Wang
+  image: default.gif
+  text: PhD Candidate, THU
+  social:
+    - title: envelope #use for email address
+      url: mailto:dingliu2@illinois.edu
+    - title: link
+      url: https://scholar.google.com/citations?user=PGtHUI0AAAAJ&hl=en
+
+- name: Zhouping Wang
+  image: zhoupingwang.jpg
+  text: Master Student, THU 
+  social:
+    - title: envelope #use for email address
+      url: mailto:kgu3@illinois.edu
+    - title: link
+      url: https://www.linkedin.com/in/kuangxiao-gu-b635027a
+
+
+- name: Heng Zhang
+  image: hengzhang.jpg
+  text: Master Student, THU 
+  social:
+  social:
+    - title: envelope #use for email address
+      url: mailto:zshen5@illinois.edu
+    - title: link
+      url: https://www.linkedin.com/in/zengming-zack-shen-b7921147
+
+- name: Pei Wang
+  image: peiwang.jpg
+  text: Master Student, THU
+  social:
+    - title: envelope #use for email address
+      url: mailto:yuchenf4@illinois.edu
+    - title: link
+      url: http://google.com
+      
+- name: Chuanpu Li
+  image: chuanpuli.jpg
+  text: Master Student, THU
+  social:
+    - title: envelope #use for email address
+      url: mailto:hi@jhyu.me
+    - title: link
+      url: http://beckman.illinois.edu/directory/person/jyu79
+
+- name: Lingjun Li
+  image: lingjunli.jpg
+  text: Master Student, THU
+  social:
+    - title: envelope #use for email address
+      url: mailto:hanchao2@illinois.edu
+    - title: link
+      url: http://beckman.illinois.edu/directory/person/hanchao2
+
+- name: Junke Li
+  image: junkeli2.jpg
+  text: Master Student, THU
+  social:
+    - title: envelope #use for email address
+      url: mailto:haichaoyu3@gmail.com
+    - title: link
+      url: http://www.haichaoyu.me/
+
+
+
+- name: David Mao
+  image: default.gif
+  text: Master Student, THU
+  social:
+    - title: envelope #use for email address
+      url: mailto:bcheng9@illinois.edu
+    - title: link
+      url: http://google.com/
+     
+     
+###-------------Undergraduate---------------------
+
+###-------------Visitors---------------------      
+

@@ -1,0 +1,107 @@
+
+## 2015 Graduates
+- name: Chenyang Li
+  image: chenyangli.jpg
+  text: Alibaba Researcher
+  social:
+    - title: envelope #use for email address
+      url: mailto:ningxu2@illinois.edu
+    - title: link
+      url: https://www.vincentqin.tech/about/
+
+- name: Guangsheng Chi
+  image: guangshengchi.jpg
+  text: Baidu Algorithm Engineer
+  social:
+    - title: envelope #use for email address
+      url: mailto:hshi10@illinois.edu
+    - title: link
+      url: https://www.vincentqin.tech/about/
+
+## 2016 Graduates
+- name: Yatong Xu
+  image: yatongxu.jpg
+  text: Hikvision Researcher 
+  social:
+    - title: envelope #use for email address
+      url: mailto:xinchao.w@gmail.com
+    - title: link
+      url: https://www.vincentqin.tech/about/
+
+- name: Zhanqi Liu
+  image: default.gif
+  text: Tencent Researcher
+  social:
+    - title: envelope #use for email address
+      url: mailto:liuzceecs@gmail.com
+    - title: link
+      url: https://www.vincentqin.tech/about/
+
+- name: Kaiyun Wei
+  image: default.gif
+  text: FUTU5 Software Engineering
+  social:
+    - title: envelope #use for email address
+      url: mailto:weikaiyun1990@outlook.com
+    - title: link
+      url: https://www.vincentqin.tech/about/
+
+## 2017 Graduates
+- name: Yifu Hu
+  image: yifu.jpg
+  text: PhD Candidate, BU
+  social:
+    - title: envelope #use for email address
+      url: mailto:liuzceecs@gmail.com
+    - title: link
+      url: http://cs-people.bu.edu/yfhu/
+
+- name: Yu Zhang
+  image: yuzhang.jpg
+  text: Huawei Researcher
+  social:
+    - title: envelope #use for email address
+      url: mailto:liuzceecs@gmail.com
+    - title: link
+      url: https://www.vincentqin.tech/about/
+
+## 2018 Graduates
+- name: Haixu Han
+  image: haixuhan.jpg
+  text: Wechat Researcher
+  social:
+    - title: envelope #use for email address
+      url: mailto:liuzceecs@gmail.com
+    - title: link
+      url: https://www.linkedin.com/in/%E6%B5%B7%E6%97%AD-%E9%9F%A9-ab5531139/
+
+- name: Yanwen Qin
+  image: yanwenqin.jpg
+  text: Hikvision Researcher 
+  social:
+    - title: envelope #use for email address
+      url: mailto:qin123yw@163.com
+    - title: link
+      url: https://www.vincentqin.tech/about/
+
+- name: Li Liu
+  image: liliu.jpg
+  text: Lenovo Researcher
+  social:
+    - title: envelope #use for email address
+      url: mailto:liuzceecs@gmail.com
+    - title: link
+      url: https://www.vincentqin.tech/about/
+
+- name: Qian Li
+  image: qianli.jpg
+  text: Huawei Researcher
+  social:
+    - title: envelope #use for email address
+      url: mailto:liuzceecs@gmail.com
+    - title: link
+      url: http://www.qianli666.com
+
+
+
+
