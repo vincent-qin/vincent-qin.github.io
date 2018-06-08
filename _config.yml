@@ -1,8 +1,8 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: Broadband Network & Multimedia Lab.
-description: "Computer vision research & Light Field Photography."
+title: Intelligent Imaging and Media.
+description: "Intelligent Imaging and Media."
 analytics: UA-62493043-1 #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
 url: "jin-lab.github.io"
