@@ -9,27 +9,27 @@
   text: PhD Candidate, THU
   social:
     - title: envelope #use for email address
-      url: mailto:wychao1987@gmail.com    
+      url: mailto:809340262@qq.com
     - title: link
-      url: https://weiyc.github.io/
+      url: http://yqchen.com/
 
 - name: Xiaoyu Wang
   image: xiaoyuwang.jpg
   text: PhD Candidate, THU
   social:
     - title: envelope #use for email address
-      url: mailto:dingliu2@illinois.edu
+      url: mailto:1210040809@qq.com
     - title: link
-      url: https://scholar.google.com/citations?user=PGtHUI0AAAAJ&hl=en
+      url: /
 
 - name: Zhouping Wang
   image: zhoupingwang.jpg
   text: Master Student, THU 
   social:
     - title: envelope #use for email address
-      url: mailto:kgu3@illinois.edu
+      url: mailto:591969426@qq.com
     - title: link
-      url: https://www.linkedin.com/in/kuangxiao-gu-b635027a
+      url: /
 
 
 - name: Heng Zhang
@@ -38,45 +38,45 @@
   social:
   social:
     - title: envelope #use for email address
-      url: mailto:zshen5@illinois.edu
+      url: mailto:1335708273@qq.com
     - title: link
-      url: https://www.linkedin.com/in/zengming-zack-shen-b7921147
+      url: /
 
 - name: Pei Wang
   image: peiwang.jpg
   text: Master Student, THU
   social:
     - title: envelope #use for email address
-      url: mailto:yuchenf4@illinois.edu
+      url: mailto:wangpei.zi35@qq.com
     - title: link
-      url: http://google.com
+      url: /
       
 - name: Chuanpu Li
   image: chuanpuli.jpg
   text: Master Student, THU
   social:
     - title: envelope #use for email address
-      url: mailto:hi@jhyu.me
+      url: mailto:licup2012@163.com
     - title: link
-      url: http://beckman.illinois.edu/directory/person/jyu79
+      url: /
 
 - name: Lingjun Li
   image: lingjunli.jpg
   text: Master Student, THU
   social:
     - title: envelope #use for email address
-      url: mailto:hanchao2@illinois.edu
+      url: mailto:877604242@qq.com
     - title: link
-      url: http://beckman.illinois.edu/directory/person/hanchao2
+      url: /
 
 - name: Junke Li
   image: junkeli2.jpg
   text: Master Student, THU
   social:
     - title: envelope #use for email address
-      url: mailto:haichaoyu3@gmail.com
+      url: mailto:lijunke276@qq.com
     - title: link
-      url: http://www.haichaoyu.me/
+      url: /
 
 
 
@@ -85,9 +85,9 @@
   text: Master Student, THU
   social:
     - title: envelope #use for email address
-      url: mailto:bcheng9@illinois.edu
+      url: mailto:maoswd10@mails.tsinghua.edu.cn
     - title: link
-      url: http://google.com/
+      url: /
      
      
 ###-------------Undergraduate---------------------
