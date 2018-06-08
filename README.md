@@ -13,53 +13,6 @@ It just involves updating the right yaml file, and putting images in the right d
 
 If you want to make larger changes to the site, like adding a new type of page, it will require more work.
 
-# Structure of this project
-
-./root
-│  .gitignore
-│  index.html
-│  projects.html
-│  publications.html
-│  README.md     // 本文档
-│  xinjin.html	 // xinjin's resume	
-│  _config.yml   // 站点配置文件
-│  
-├─assets
-│  │                  
-│  ├─fonts  
-│  │      
-│  ├─img
-│  │  │  footer-wordmark.png
-│  │  │  footer-wordmark1.png
-│  │  │  xinjin.jpg // 老师头像  
-│  │  │  
-│  │  ├─members   // 头像们
-│  │  │      
-│  │  └─projects  // 项目        
-│  └─js
-│               
-├─members      
-│      
-├─_data
-│      members.yml         // 添加已有成员
-│      past_members.yml
-│      projects.yml
-│      publications.yml    // 添加已发表论文
-│      recent_members.yml  // 添加已毕业成员
-│      
-├─_includes
-│  │  footer.html
-│  │  head.html
-│  │  js.html
-│  │  members.html      // 成员
-│  │  nav.html          // 导航栏
-│  │  past_members.html
-│  │  recent_members.html
-│  │  wrap.html
-│  └─css
-│          
-├─_layouts // 页面样式  
-└─_site
             
 # Updating the site (using git)
 To update the site, you will need some familiarity with git. If you don't, brush up first.
