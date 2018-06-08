@@ -81,7 +81,7 @@
 
 
 - name: David Mao
-  image: default.gif
+  image: david.jpg
   text: Master Student, THU
   social:
     - title: envelope #use for email address
