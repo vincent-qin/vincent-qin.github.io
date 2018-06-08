@@ -11,7 +11,7 @@
     - title: envelope #use for email address
       url: mailto:809340262@qq.com
     - title: link
-      url: http://yqchen.com/
+      url: /members/yanqinchen/
 
 - name: Xiaoyu Wang
   image: xiaoyuwang.jpg
@@ -20,7 +20,7 @@
     - title: envelope #use for email address
       url: mailto:1210040809@qq.com
     - title: link
-      url: /
+      url: /members/xiaoyuwang/
 
 - name: Zhouping Wang
   image: zhoupingwang.jpg
@@ -29,7 +29,7 @@
     - title: envelope #use for email address
       url: mailto:591969426@qq.com
     - title: link
-      url: /
+      url: /members/zhoupingwang/
 
 
 - name: Heng Zhang
@@ -40,7 +40,7 @@
     - title: envelope #use for email address
       url: mailto:1335708273@qq.com
     - title: link
-      url: /
+      url: /members/hengzhang/
 
 - name: Pei Wang
   image: peiwang.jpg
@@ -49,7 +49,7 @@
     - title: envelope #use for email address
       url: mailto:wangpei.zi35@qq.com
     - title: link
-      url: /
+      url: /members/peiwang/
       
 - name: Chuanpu Li
   image: chuanpuli.jpg
@@ -58,7 +58,7 @@
     - title: envelope #use for email address
       url: mailto:licup2012@163.com
     - title: link
-      url: /
+      url: /members/chuanpuli/
 
 - name: Lingjun Li
   image: lingjunli.jpg
@@ -67,16 +67,16 @@
     - title: envelope #use for email address
       url: mailto:877604242@qq.com
     - title: link
-      url: /
+      url: /members/lingjunli/
 
 - name: Junke Li
-  image: junkeli2.jpg
+  image: junkeli.jpg
   text: Master Student (2nd Year), THU
   social:
     - title: envelope #use for email address
       url: mailto:lijunke276@qq.com
     - title: link
-      url: /
+      url: /members/junkeli/
 
 
 - name: David Mao
@@ -86,7 +86,7 @@
     - title: envelope #use for email address
       url: mailto:maoswd10@mails.tsinghua.edu.cn
     - title: link
-      url: /
+      url: /members/david/
 
 
 - name: Xufu Sun
@@ -96,7 +96,7 @@
     - title: envelope #use for email address
       url: mailto:sun_xufu@163.com
     - title: link
-      url: /
+      url: /members/xufusun/
 
 - name: Tingting Zhong
   image: tingtingzhong.jpg
@@ -105,7 +105,7 @@
     - title: envelope #use for email address
       url: mailto:2280779231@qq.com
     - title: link
-      url: /
+      url: /members/tingtingzhong/
           
 ###-------------Undergraduate---------------------
 
