@@ -15,192 +15,58 @@
     year: '2017'
   - title: "Depth Map Super-resolution Via Low-resolution Depth Guided Joint Trilateral Up-sampling."
     authors: 'Liang Yuan, Xin Jin, Yangguang Li, Chun Yuan.'
-    venue: 'Journal of Visual Communication and Image Representation, 46(2017): 280-291'
+    venue: 'Journal of Visual Communication and Image Representation, 46: 280-291'
     year: '2017'
   - title: "A Large-Scale Compressed Video Quality Dataset Based on JND Measurement."
     authors: ' H. Wang, I. Katsavounidis, J. Zhou, J. Park, S. Lei, M. O. Pun, Xin Jin, R. Wang, X. Wang, Y. Zhang, J. Huang, S. Kwong, C.-C. Jay Kuo.'
-    venue: 'Journal of Visual Communication and Image Representation, 46(2017): 292-302.'
+    venue: 'Journal of Visual Communication and Image Representation, 46: 292-302.'
     year: '2017'
 
 - section: Conference Papers
   articles:
-  - title: "Multi-Modal Audio, Video and Physiological Sensor Learning for Continuous Emotion Prediction"
-    authors: 'Kevin Brady, Youngjune Gwon, Pooya Khorrami, Elizabeth Godoy, William Campbell, Charlie Dagli, Thomas S. Huang'
-    venue: 'International Workshop on Audio/Visual Emotion Challenge (AVEC)'
+  - title: "Image Formation Analysis and Light Field Information Reconstruction for Plenoptic Camera 2.0."
+    authors: ' Li Liu, Xin Jin and Qionghai Dai.'
+    venue: 'Pacific-Rim Conference on Multimedia (PCM).'
+    year: '2017'
+    link: '/'
+  - title: "Lenslet image compression using adaptive micropixel prediction."
+    authors: 'Haixu Han, Xin Jin and Qionghai Dai.'
+    venue: 'Conf. on Image Proc. (ICIP), Beijing, China, Sept. 17-20'
+    year: '2017'
+  - title: "Distance estimation based on light field geometric modeling"
+    authors: 'Yanqin Chen, Xin Jin and Qionghai Dai.'
+    venue: 'International Conf. on Multimedia & Expo (ICME 2017) Workshop: Hot3D, Hong Kong, July 10-14, 2017, pp. 43-48.'
+    year: '2017'
+  - title: "Lenslet image compression based on image reshaping and macro-pixel intra prediction."
+    authors: 'Haixu Han, Xin Jin and Qionghai Dai.'
+    venue: 'International Conf. on Multimedia & Expo (ICME), Hong Kong, July 10-14, pp. 1177-1182.'
+    year: '2017'
+
+  - title: "Dynamic cloud offloading for view synthesis."
+    authors: 'Qian Li, Xin Jin, Zhanqi Liu and Qionghai Dai.'
+    venue: 'IEEE Intl. Conf. Acoustics, Speech and Signal Processing (ICASSP), New Orleans, USA, Mar. 5-9, pp. 2951-2955.'
+    year: '2017'
+
+  - title: "Enhanced depth estimation for hand-held light field cameras."
+    authors: 'Yanwen Qin, Xin Jin and Qionghai Dai.'
+    venue: 'IEEE Intl. Conf. Acoustics, Speech and Signal Processing (ICASSP), New Orleans, USA, Mar. 5-9,  pp. 2032-2036.'
+    year: '2017'
+
+  - title: "Clustering Based Content Adaptive Tiles under On-chip Memory Constraints."
+    authors: 'Xin Jin and Qionghai Dai.'
+    venue: 'IEEE Trans. Multimedia, vol. 18, no. 12, pp. 2331-2344.'
     year: '2016'
-    link: 'http://dl.acm.org/ft_gateway.cfm?id=2988264&ftid=1800783&dwn=1&CFID=866118300&CFTOKEN=15774136'
-  - title: "Studying Very Low Resolution Recognition Using Deep Networks"
-    authors: 'Z. Wang, S. Chang, Y. Yang, D. Liu and T. Huang'
-    venue: 'IEEE Conference on Computer Vision and Pattern Recognition (CVPR)'
+
+  - title: "Depth Dithering based on Texture Edge-assisted Classification."
+    authors: 'Xin Jin, Yatong Xu and Qionghai Dai.'
+    venue: 'Signal Processing: Image Communication, vol.47, pp. 56-71.'
     year: '2016'
-  - title: "D3: Deep Dual-Domain Based Fast Restoration of JPEG-Compressed Images"
-    authors: 'Z. Wang, D. Liu, S. Chang, Q. Ling and T. Huang'
-    venue: 'IEEE Conference on Computer Vision and Pattern Recognition (CVPR)'
-    year: '2016'
-  - title: "Learning A Task-Specific Deep Architecture for Clustering"
-    authors: 'Z. Wang, S. Chang, J. Zhou, M. Wang and T. Huang'
-    venue: 'SIAM Conference on Data Mining (SDM)'
-    year: '2016'
-  - title: "Learning Deep l0 Encoders"
-    authors: 'Z. Wang, Q. Ling, and T. Huang'
-    venue: 'AAAI Conference on Artificial Intelligence (AAAI)'
-    year: '2016'
-  - title: "Epitomic Image Super-Resolution"
-    authors: 'Y. Yang, Z. Wang, Z. Wang, S. Chang, D. Liu, H. Shi, and T. Huang'
-    venue: 'AAAI Conference on Artificial Intelligence (AAAI)'
-    year: '2016'
-  - title: "DeepFont: Identify Your Font from An Image"
-    authors: 'DeepFont: Identify Your Font from An Image'
-    venue: 'ACM International Conference on Multimedia (ACM MM)'
-    year: '2015'
-  - title: "DeepFont: A System for Font Recognition and Similarity"
-    authors: 'Z. Wang, J. Yang, H. Jin, J. Brandt, E. Shechtman, A. Agarwala, Z. Wang, S. Kong, and T. Huang'
-    venue: 'ACM International Conference on Multimedia (ACM MM)'
-    year: '2015'
-  - title: "Joint Optimization Framework of Sparse Coding and Discriminative Clustering"
-    authors: 'Z. Wang, Y. Yang, S. Chang, J. Li, S. Fong and T. Huang'
-    venue: 'International Joint Conferences on Artificial Intelligence (IJCAI)'
-    year: '2015'
-  - title: "Self-Tuned Deep Super Resolution"
-    authors: 'Z. Wang, Y. Yang, Z. Wang, S. Chang, W. Han, J. Yang, and T. Huang'
-    venue: 'IEEE CVPR workshop on Deep Learning in Computer Vision (CVPR DeepVision)'
-    year: '2015'
-  - title: "Designing A Composite Dictionary Adaptively from Joint Examples"
-    authors: 'Z. Wang, Y. Yang, J. Yang and T. Huang'
-    venue: 'IEEE Conference on Visual Communications and Image Processing (VCIP)'
-    year: '2015'
-  - title: "Real-World Font Recognition Using Deep Network and Domain Adaptation"
-    authors: 'Z. Wang, J. Yang, H. Jin, E. Shechtman, A. Agarwala, J. Brandt and T. Huang'
-    venue: 'International Conference on Learning Representations (ICLR) workshop'
-    year: '2015'
-  - title: "Decentralized Recommender Systems"
-    authors: 'Z. Wang, X. Liu, S. Chang, J. Zhou, G. Qi and T. Huang'
-    venue: 'SDM workshop on Machine Learning Methods for Recommender Systems (SDM MLRec)'
-    year: '2015'
-  - title: "A Joint Perspective Towards Image Super-Resolution: Unifying External- and Self-Examples"
-    authors: 'Z. Wang, Z. Wang, S. Chang, J. Yang and T. Huang'
-    venue: 'IEEE Winter conference on Applications of Computer Vision (WACV)'
-    year: '2014'
-  - title: "Regularized L1-Graph for Data Clustering"
-    authors: 'Y. Yang, Z. Wang, J. Yang, J. Han, and T. Huang'
-    venue: 'British Machine Vision Conference (BMVC)'
-    year: '2014'
-  - title: "On A Theory of Nonparametric Pairwise Similarity for Clustering: Connecting Clustering to Classification"
-    authors: 'Y. Yang, F. Liang, S. Yan. Z. Wang, and T. Huang'
-    venue: 'Advances in Neural Information Processing Systems (NIPS)'
-    year: '2014'
-  - title: "Data Clustering by Laplacian Regularized L1-Graph"
-    authors: 'Y. Yang, Z. Wang, J. Yang, and T. Huang'
-    venue: 'AAAI Conference on Artificial Intelligence (AAAI)'
-    year: '2014'
-  - title: "Nonparametric Pairwise Similarity for Clustering"
-    authors: 'Y. Yang, X. Chu, Z. Wang, and T. Huang'
-    venue: 'NIPS workshop on Modern Nonparametric Methods in Machine Learning'
-    year: '2014'
-  - title: "Active Planning, Sensing and Recognition Using a Resource-Constrained Discriminant POMDP"
-    authors: 'Z. Wang, Z. Wang, P. Huang, M. Moll, D. Grady, N. Nasrabadi, T. Huang, L. Kayraki, and M. Johnson'
-    venue: 'IEEE CVPR workshop on Multi-Sensor Fusion (CVPR MSF)'
-    year: '2014'
-  - title: "A System for Monitoring the Engagement of Remote Online Students using Eye Gaze Estimation"
-    authors: 'Pooya Khorrami, Vuong Le, John C. Hart, and Thomas S. Huang'
-    venue: 'IEEE International Conference on Multimedia and Expo Workshops. (ICMEW)'
-    year: '2014'
-  - title: "Foreground Object Detection in Highly Dynamic Scenes using Saliency"
-    authors: 'Kai-Hsiang Lin, Pooya Khorrami, Jiangping Wang, Mark Hasegawa-Johnson, and Thomas S. Huang'
-    venue: 'IEEE International Conference on Image Processing (ICIP)'
-    year: '2014'
-    link: 'http://www.isle.illinois.edu/sst/pubs/2014/lin14icip.pdf'
-  - title: "An Analysis of Unsupervised Pre-training in Light of Recent Advances"
-    authors: 'Tom Le Paine, Pooya Khorrami, Wei Han, and Thomas S. Huang'
-    venue: 'IEEE International Conference on Learning Representations (ICLR) Workshop'
-    year: '2015'
-    link: 'http://arxiv.org/pdf/1412.6597v4.pdf'
-  - title: "Do Deep Neural Networks Learn Facial Action Units When Doing Expression Recognition?"
-    authors: 'Pooya Khorrami, Tom Le Paine, and Thomas Huang'
-    venue: 'IEEE International Conference on Computer Vision Workshops (ICCVW)'
-    year: '2015'
-    link: 'https://arxiv.org/pdf/1510.02969v2.pdf'
-  - title: "Look and think twice: Capturing top-down visual attention with feedback convolutional neural networks."
-    authors: 'Cao, C., Liu, X., Yang, Y., Yu, Y., Wang, J., Wang, Z., ... , Ramanan, D., and Huang, T. S.'
-    venue: 'IEEE International Conference on Computer Vision (ICCV)'
-    year: '2015'
-  - title: "Understanding Image Structure via Hierarchical Shape Parsing."
-    authors: 'Liu, X. M., Ji, R., Wang, C., Liu, W., Zhong, B., & Huang, T. S.'
-    venue: 'IEEE Conference on Computer Vision and Pattern Recognition (CVPR)'
-    year: '2015'
-  - title: "Learning Local Semantic Distances with Limited Supervision."
-    authors: 'Shiyu Chang, Charu C. Aggarwal, Thomas S. Huang'
-    venue: 'ICDM'
-    year: '2014'
-  - title: "Factorized Similarity Learning in Networks"
-    authors: 'Shiyu Chang, Guo-Jun Qi, Charu C. Aggarwal, Jiayu Zhou, Meng Wang, Thomas S. Huang.'
-    venue: 'ICDM'
-    year: '2014'
-  - title: "Heterogeneous Network Embedding via Deep Architectures"
-    authors: 'Shiyu Chang, Wei Han, Jiliang Tang, Guo-Jun Qi, Charu C. Aggarwal, Thomas S. Huang'
-    venue: 'KDD'
-    year: '2015'
-  - title: "A Space Alignment Method for Cold-Start TV Show Recommendations."
-    authors: 'Shiyu Chang, Jiayu Zhou, Pirooz Chubak, Junling Hu, Thomas S. Huang'
-    venue: 'IJCAI'
-    year: '2015'
-  - title: "Scalable Similarity Learning Using Large Margin Neighborhood Embedding"
-    authors: 'Zhaowen Wang, Jianchao Yang, Zhe L. Lin, Jonathan Brandt, Shiyu Chang, Thomas S. Huang'
-    venue: 'WACV'
-    year: '2015'
-  - title: "Deep Networks for Image Super-Resolution with Sparse Prior."
-    authors: 'Zhaowen Wang, Ding Liu, Wei Han, Jianchao Yang and Thomas Huang'
-    venue: 'International Conference on Computer Vision (ICCV)'
-    year: '2015'
-  - title: "Deep Interactive Object Selection"
-    authors: 'Ning Xu, Brian Price, Scott Cohen, Jimei Yang, Thomas Huang'
-    venue: 'CVPR'
-    year: '2016'
-  - title: "An ontological bagging approach for image classification of crowdsourced data."
-    authors: 'Xu, N., Wang, J., Wang, Z., & Huang, T.'
-    venue: 'International Conference on Multimedia and Expo Workshops (ICMEW)'
-    year: '2014'
-  - title: "BodyPrint: Pose Invariant 3D Shape Matching of Human Bodies."
-    authors: 'J. Wang, K. Ma, V. Singh, T. Huang, T. Chen.'
-    venue: 'International Conference on Computer Vision (ICCV)'
-    year: '2015'
-  - title: "On Order-Constrained Transitive Distance Clustering"
-    authors: 'Zhiding Yu, Weiyang Liu, Wenbo Liu, Yingzhen Yang, Ming Li and Vijayakumar Bhagavatula'
-    venue: 'AAAI Conference on Artificial Intelligence (AAAI)'
-    year: '2016'
-  - title: "Epitomic Image Colorization."
-    authors: 'Yingzhen Yang, Xinqi Chu, Tian-Tsong Ng, Alex Yong-Sang Chia, Hailin Jin, Thomas S. Huang'
-    venue: 'International Conference on Acoustics, Speech, and Signal Processing (ICASSP)'
-    year: '2014'
-  - title: "Discriminative Exemplar Clustering."
-    authors: 'Yingzhen Yang, Feng Liang, Thomas S. Huang.'
-    venue: 'International Conference on Acoustics, Speech, and Signal Processing (ICASSP)'
-    year: '2014'
-  - title: "UnitBox: An Advanced Object Detection Network"
-    authors: 'Jiahui Yu, Yuning Jiang, Zhangyang Wang, Zhimin Cao, Thomas Huang'
-    venue: 'ACM MM'
-    year: '2016'
-  - title: "How Deep Neural Networks Can Help Emotion Recognition on Video Data."
-    authors: 'Pooya Khorrami, Tom Le Paine, Kevin Brady, Charlie Dagli, Thomas S. Huang'
-    venue: 'IEEE International Conference on Image Processing (ICIP)'
-    year: '2016'
-    link: 'http://arxiv.org/pdf/1602.07377v4.pdf'
-  - title: "Learning a Mixture of Deep Networks for Single Image Super-Resolution."
-    authors: 'Liu, D., Wang, Z., Nasrabadi, N., and Huang, T.S.'
-    venue: 'Asian Conference on Computer Vision (ACCV)'
-    year: '2016'
-  - title: "Learning A Deep ℓ∞ Encoder for Hashing"
-    authors: 'Z. Wang, Y. Yang, S. Chang, Q. Ling, and T. Huang'
-    venue: 'International Joint Conferences on Artificial Intelligence (IJCAI)'
-    year: '2016'
-  - title: "GPU asynchronous stochastic gradient descent to speed up neural network training."
-    authors: 'Tom Le Paine, Hailin Jin, Jianchao Yang, Zhe Lin, Thomas Huang'
-    venue: 'IEEE International Conference on Learning Representations (ICLR) Workshop'
-    year: '2014'
+
+
 - section: Technical Reports
   articles:
-  - title: "Seq-NMS for Video Object Detection"
-    authors: 'Wei Han, Pooya Khorrami, Tom Le Paine, Prajit Ramachandran, Mohammad Babaeizadeh, Honghui Shi, Jianan Li, Shuicheng Yan, Thomas S. Huang'
-    venue: 'Technical report for 3rd place submission to Imagenet Large-Scale Object Detection in Video Challenge.'
+  - title: "###"
+    authors: '###'
+    venue: '###.'
     year: '2016'
-    link: 'http://arxiv.org/pdf/1602.08465.pdf'
+    link: '###'
