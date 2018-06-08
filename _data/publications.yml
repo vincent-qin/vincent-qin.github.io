@@ -1,58 +1,27 @@
-- section: Books
-  articles:
-  - title: "Face Processing and Applications to Distance Learning."
-    authors: 'Vuong Le, Pooya Khorrami, Usman Tariq, Hao Tang, Thomas S. Huang.'
-    venue: 'World Scientific Publishing'
-    year: '2016'
-    link: 'http://www.worldscientific.com/worldscibooks/10.1142/9866'
-  - title: "Sparse Coding and its Applications in Computer Vision."
-    authors: 'Zhaowen Wang, Jianchao Yang, Haichao Zhang, Zhangyang Wang, Yingzhen Yang, Ding Liu, Thomas S Huang.'
-    venue: 'World Scientific Publishing'
-    year: '2016'
-- section: Book Chapters
-  articles:
-  - title: "Data Classification: Algorithms and Applications."
-    authors: 'Shiyu Chang, Wei Han, Xianming Liu, Ning Xu, Pooya Khorrami, and Thomas S. Huang.'
-    venue: 'Multimedia Classification, Chapter 11. Chapman and Hall'
-    year: '2014'
 - section: Journal Papers
   articles:
-  - title: "Learning Super-Resolution Jointly from External and Internal Examples."
-    authors: 'Z. Wang, Y. Yang, Z. Wang, S. Chang, J. Yang, and T. Huang.'
-    venue: 'IEEE Transactions on Image Processing (TIP), vol. 24, no. 11'
-    year: '2015'
-  - title: "Semi-supervised Hyperspectral Classification using Task-driven Dictionary Learning with Regularization."
-    authors: 'Z. Wang, N. Nasrabadi, and T. Huang.'
-    venue: 'IEEE Transactions on Geosciences and Remote Sensing (TGRS), vol. 56, no. 3'
-    year: '2015'
-  - title: "Visual Media: History and Perspectives."
-    authors: 'Thomas S. Huang, Vuong Le, Tom Le Paine, Pooya Khorrami, and Usman Tariq.'
-    venue: 'IEEE MultiMedia, vol. 21, no. 2'
-    year: '2014'
-  - title: "Localizing web videos using social images."
-    authors: 'Cao, L., Liu, X. M., Liu, W., Ji, R., & Huang, T.'
-    venue: 'Information Sciences, vol. 302'
-    year: '2015'
-  - title: "Automatic Detection of Auditory Salience with Optimized Linear Filters Derived from Human Annotation"
-    authors: 'Kyungtae Kim, Kai-Hsiang Lin, Dirk B. Walther, Mark A. Hasegawa-Johnson, and Thomas S. Huang.'
-    venue: 'Pattern Recognition Letters , vol. 38'
-    year: '2014'
-  - title: "Ontological Random Forests for Image Classification."
-    authors: 'Xu, N., Wang, J., Qi, G., Huang, T., & Lin, W.'
-    venue: 'International Journal of Information Retrieval Research (IJIRR), vol. 5, no. 3'
-    year: '2015'
-  - title: "Subcategory-aware object detection."
-    authors: 'X. Yu, J. Yang, Z. Lin, J. Wang, T. Wang, T. Huang.'
-    venue: 'Signal Processing Letters, IEEE, vol. 22, no. 9'
-    year: '2015'
-  - title: "Large-Scale Supervised Similarity Learning in Networks."
-    authors: 'Shiyu Chang, Guo-Jun Qi, Yingzhen Yang, Charu C. Aggarwal, Jiayu Zhou, Meng Wang, Thomas S. Huang.'
-    venue: 'Knowledge and Information Systems'
-    year: '2015'
-  - title: "Robust Single Image Super-Resolution via Deep Networks With Sparse Prior."
-    authors: 'Liu D, Wang Z, Wen B, Yang J, Han W, Huang TS.'
-    venue: 'IEEE Transactions on Image Processing. vol. 25, no. 7'
-    year: '2016'
+  - title: "Image Reshaping for Efficient Compression of Plenoptic Content."
+    authors: ' Xin Jin, Haixu Han and Qionghai Dai.'
+    venue: 'IEEE Journal of Selected Topics in Signal Processing'
+    year: '2017'
+    link: https://www.vincentqin.tech
+  - title: "Point spread function and depth-invariant focal sweep point spread function for plenoptic camera 2.0."
+    authors: 'Xin Jin, Li Liu and Qionghai Dai.'
+    venue: 'Optics Express, vol. 25, no. 9, pp. 9947-9962.'
+    year: '2017'
+  - title: "Distance measurement based on light field geometry and ray tracing."
+    authors: 'Yanqin Chen, Xin Jin and Qionghai Dai.'
+    venue: 'Optics Express, vol. 25, no. 1, pp. 59-76'
+    year: '2017'
+  - title: "Depth Map Super-resolution Via Low-resolution Depth Guided Joint Trilateral Up-sampling."
+    authors: 'Liang Yuan, Xin Jin, Yangguang Li, Chun Yuan.'
+    venue: 'Journal of Visual Communication and Image Representation, 46(2017): 280-291'
+    year: '2017'
+  - title: "A Large-Scale Compressed Video Quality Dataset Based on JND Measurement."
+    authors: ' H. Wang, I. Katsavounidis, J. Zhou, J. Park, S. Lei, M. O. Pun, Xin Jin, R. Wang, X. Wang, Y. Zhang, J. Huang, S. Kwong, C.-C. Jay Kuo.'
+    venue: 'Journal of Visual Communication and Image Representation, 46(2017): 292-302.'
+    year: '2017'
+
 - section: Conference Papers
   articles:
   - title: "Multi-Modal Audio, Video and Physiological Sensor Learning for Continuous Emotion Prediction"
