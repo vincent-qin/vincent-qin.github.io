@@ -6,7 +6,7 @@
 
 - name: Yanqin Chen
   image: yanqinchen.jpg
-  text: PhD Candidate (3rd Year), THU
+  text: PhD Candidate (4th Year), THU
   social:
     - title: envelope #use for email address
       url: mailto:809340262@qq.com
@@ -15,7 +15,7 @@
 
 - name: Xiaoyu Wang
   image: xiaoyuwang.jpg
-  text: PhD Candidate (1st Year), THU
+  text: PhD Candidate (2nd Year), THU
   social:
     - title: envelope #use for email address
       url: mailto:1210040809@qq.com
