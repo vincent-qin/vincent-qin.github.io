@@ -2,12 +2,12 @@
 ## 2015 Graduates
 - name: Chenyang Li (2015)
   image: chenyangli.jpg
-  text: Alibaba Researcher
+  text: New Access Captial Researcher
   social:
     - title: envelope #use for email address
       url: mailto:453153434@qq.com
     - title: link
-      url: /
+      url: /members/chenyangli/
 
 - name: Guangsheng Chi (2015)
   image: guangshengchi.jpg
@@ -16,7 +16,7 @@
     - title: envelope #use for email address
       url: mailto:185923166@qq.com
     - title: link
-      url: /
+      url: /members/guangshengchi/
 
 ## 2016 Graduates
 - name: Yatong Xu (2016)
@@ -26,7 +26,7 @@
     - title: envelope #use for email address
       url: mailto:blue_sun_fish@sina.com
     - title: link
-      url: /
+      url: /members/yatongxu/
 
 - name: Zhanqi Liu (2016)
   image: zhanqiliu.jpg
@@ -35,7 +35,7 @@
     - title: envelope #use for email address
       url: mailto:798279508@qq.com
     - title: link
-      url: /
+      url: /members/zhanqiliu/
 
 - name: Kaiyun Wei (2016)
   image: kaiyunwei.jpg
@@ -44,7 +44,7 @@
     - title: envelope #use for email address
       url: mailto:weikaiyun1990@outlook.com
     - title: link
-      url: /
+      url: /members/kaiyunwei/
 
 ## 2017 Graduates
 - name: Yifu Hu (2017)
@@ -54,7 +54,7 @@
     - title: envelope #use for email address
       url: mailto:who_if@163.com
     - title: link
-      url: http://cs-people.bu.edu/yfhu/
+      url: /members/yifuhu/ #http://cs-people.bu.edu/yfhu/
 
 - name: Yu Zhang (2017)
   image: yuzhang.jpg
@@ -63,7 +63,7 @@
     - title: envelope #use for email address
       url: mailto:676604082@qq.com
     - title: link
-      url: /
+      url: /members/yuzhang/
 
 ## 2018 Graduates
 - name: Haixu Han (2018)
@@ -91,7 +91,7 @@
     - title: envelope #use for email address
       url: mailto:501318762@qq.com
     - title: link
-      url: /
+      url: /members/liliu/
 
 - name: Qian Li (2018)
   image: qianli.jpg
