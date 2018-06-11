@@ -1,6 +1,8 @@
 
 ## 2015 Graduates
-- name: Chenyang Li (2015)
+- name: 
+    - info: Chenyang Li (2015)
+      url: /members/chenyangli/
   image: chenyangli.jpg
   text: New Access Captial Researcher
   social:
@@ -9,7 +11,9 @@
     - title: link
       url: /members/chenyangli/
 
-- name: Guangsheng Chi (2015)
+- name: 
+    - info: Guangsheng Chi (2015)
+      url: /members/guangshengchi/
   image: guangshengchi.jpg
   text: Baidu Algorithm Engineer
   social:
@@ -19,7 +23,9 @@
       url: /members/guangshengchi/
 
 ## 2016 Graduates
-- name: Yatong Xu (2016)
+- name: 
+    - info: Yatong Xu (2016)
+      url: /members/yatongxu/
   image: yatongxu.jpg
   text: Hikvision Researcher 
   social:
@@ -28,7 +34,9 @@
     - title: link
       url: /members/yatongxu/
 
-- name: Zhanqi Liu (2016)
+- name: 
+    - info: Zhanqi Liu (2016)
+      url: /members/zhanqiliu/
   image: zhanqiliu.jpg
   text: Tencent Researcher
   social:
@@ -37,7 +45,9 @@
     - title: link
       url: /members/zhanqiliu/
 
-- name: Kaiyun Wei (2016)
+- name:
+    - info: Kaiyun Wei (2016)
+      url: /members/kaiyunwei/
   image: kaiyunwei.jpg
   text: FUTU5 Software Engineering
   social:
@@ -47,7 +57,9 @@
       url: /members/kaiyunwei/
 
 ## 2017 Graduates
-- name: Yifu Hu (2017)
+- name: 
+    - info: Yifu Hu (2017)
+      url: /members/yifuhu/
   image: yifu.jpg
   text: PhD Candidate, BU
   social:
@@ -56,7 +68,9 @@
     - title: link
       url: /members/yifuhu/ #http://cs-people.bu.edu/yfhu/
 
-- name: Yu Zhang (2017)
+- name: 
+    - info: Yu Zhang (2017)
+      url: /members/yuzhang/
   image: yuzhang.jpg
   text: Huawei Researcher
   social:
@@ -66,7 +80,9 @@
       url: /members/yuzhang/
 
 ## 2018 Graduates
-- name: Haixu Han (2018)
+- name: 
+    - info: Haixu Han (2018)
+      url: /members/haixuhan/
   image: haixuhan.jpg
   text: Wechat Researcher
   social:
@@ -75,7 +91,9 @@
     - title: link
       url: /members/haixuhan/
 
-- name: Yanwen Qin (2018)
+- name: 
+    - info: Yanwen Qin (2018)
+      url: https://www.vincentqin.tech/about/
   image: yanwenqin.jpg
   text: Hikvision Researcher 
   social:
@@ -84,7 +102,9 @@
     - title: link
       url: https://www.vincentqin.tech/about/
 
-- name: Li Liu (2018)
+- name: 
+    - info: Li Liu (2018)
+      url: /members/liliu/
   image: liliu.jpg
   text: Lenovo Researcher
   social:
@@ -93,7 +113,9 @@
     - title: link
       url: /members/liliu/
 
-- name: Qian Li (2018)
+- name: 
+    - info: Qian Li (2018)
+      url: http://www.qianli666.com
   image: qianli.jpg
   text: Huawei Researcher
   social:

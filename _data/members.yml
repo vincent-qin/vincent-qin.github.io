@@ -4,7 +4,9 @@
       
 ###-------------PhD Students---------------------
 
-- name: Yanqin Chen
+- name: 
+    - info: Yanqin Chen
+      url: /members/yanqinchen/
   image: yanqinchen.jpg
   text: PhD Candidate (3rd Year), THU
   social:
@@ -13,7 +15,9 @@
     - title: link
       url: /members/yanqinchen/
 
-- name: Xiaoyu Wang
+- name: 
+    - info: Xiaoyu Wang
+      url: /members/xiaoyuwang/
   image: xiaoyuwang.jpg
   text: PhD Candidate (1st Year), THU
   social:
@@ -22,7 +26,9 @@
     - title: link
       url: /members/xiaoyuwang/
 
-- name: Zhouping Wang
+- name: 
+    - info: Zhouping Wang
+      url: /members/zhoupingwang/
   image: zhoupingwang.jpg
   text: Master Student (2nd Year), THU 
   social:
@@ -32,7 +38,9 @@
       url: /members/zhoupingwang/
 
 
-- name: Heng Zhang
+- name:
+    - info: Heng Zhang
+      url: /members/hengzhang/
   image: hengzhang.jpg
   text: Master Student (2nd Year), THU 
   social:
@@ -42,7 +50,9 @@
     - title: link
       url: /members/hengzhang/
 
-- name: Pei Wang
+- name: 
+    - info: Pei Wang
+      url: /members/peiwang/
   image: peiwang.jpg
   text: Master Student (1st Year), THU
   social:
@@ -51,7 +61,9 @@
     - title: link
       url: /members/peiwang/
       
-- name: Chuanpu Li
+- name: 
+    - info: Chuanpu Li
+      url: /members/chuanpuli/
   image: chuanpuli.jpg
   text: Master Student (1st Year), THU
   social:
@@ -60,7 +72,9 @@
     - title: link
       url: /members/chuanpuli/
 
-- name: Lingjun Li
+- name: 
+    - info: Lingjun Li
+      url: /members/lingjunli/
   image: lingjunli.jpg
   text: Master Student (1st Year), THU
   social:
@@ -69,7 +83,9 @@
     - title: link
       url: /members/lingjunli/
 
-- name: Junke Li
+- name: 
+    - info: Junke Li
+      url: /members/junkeli/
   image: junkeli.jpg
   text: Master Student (1st Year), THU
   social:
@@ -79,7 +95,9 @@
       url: /members/junkeli/
 
 
-- name: David Mao
+- name: 
+    - info: David Mao
+      url: /members/david/
   image: david.jpg
   text: Master Student (1st Year), THU
   social:
@@ -89,7 +107,9 @@
       url: /members/david/
 
 
-- name: Xufu Sun
+- name: 
+    - info: Xufu Sun
+      url: /members/xufusun/
   image: xufusun.jpg
   text: Master Student (tobe 1st Year), THU
   social:
@@ -98,7 +118,9 @@
     - title: link
       url: /members/xufusun/
 
-- name: Tingting Zhong
+- name: 
+    - info: Tingting Zhong
+      url: /members/tingtingzhong/
   image: tingtingzhong.jpg
   text: Master Student (tobe 1st Year), THU
   social:

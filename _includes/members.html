@@ -18,9 +18,14 @@
                     </div><!-- he bg -->
                 </div><!-- he view -->		
             </div><!-- he wrap -->
-            <h4>{{ member.name }}</h4>
+            <h4>              
+                    {% for entry in member.name %}
+                         <a href="{{ entry.url }}" >{{ entry.info}}</a>
+                    {% endfor %}
+            </h4>
             <p>{{ member.text }}</p>
             <div class="hline"></div>
+            </br>
         </div><! --/col-lg-3 -->	 	
         {% endfor %}
         

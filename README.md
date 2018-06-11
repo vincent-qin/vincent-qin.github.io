@@ -24,10 +24,10 @@ I2M实验室主页由基于ruby的博客框架jekyll搭建而成，我们使用�
 ## Structure of this project
 
     Project root
-    |   .gitignore		 // 指定推送远程可忽略的内容，一般不需要修改
-    |   index.html         // 网站的全局设置
-    |   projects.html      // 工程样式，一般不需要修改
-    |   publications.html  // 已发表文章样式，一般不需要修改
+    |   .gitignore        // 指定推送远程可忽略的内容，一般不需要修改
+    |   index.html        // 网站的全局设置
+    |   projects.html     // 工程样式，一般不需要修改
+    |   publications.html // 已发表文章样式，一般不需要修改
     |   README.md		  // 本文档
     |   xinjin.html		// xinjin's resume	
     |   _config.yml		// 站点配置文件
@@ -64,14 +64,16 @@ I2M实验室主页由基于ruby的博客框架jekyll搭建而成，我们使用�
 To add a new member, edit `./_data/members.yml`. Add a new entry at the end of the file in the form:
 
 ```
-- name: Shiyu Chang
-  image: shiyu.jpg
-  text:
+- name: 
+    - info: Yanqin Chen
+      url: /members/yanqinchen/
+  image: yanqinchen.jpg
+  text: PhD Candidate (3rd Year), THU
   social:
     - title: envelope #use for email address
-      url: mailto:chang87@illinois.edu
+      url: mailto:809340262@qq.com
     - title: link
-      url: http://www.ifp.illinois.edu/~chang87/
+      url: /members/yanqinchen/
 ```
 
 Then move the picture into `./assets/img/members`.
@@ -83,7 +85,9 @@ When you are done, push the changes.
 To add a Recent member, edit `./_data/recent_members.yml`. Add a new entry at the end of the file in the form:
 
 ```
-- name: Haixu Han (2018)
+- name: 
+    - info: Haixu Han (2018)
+      url: /members/haixuhan/
   image: haixuhan.jpg
   text: Wechat Researcher
   social:
@@ -117,9 +121,9 @@ To add a publication, edit `./data/publications.yml`. Find the appropriate secti
 
 ```
   - title: "Paper Title."
-    authors: 'A. Author, T. Huang.'
+    authors: 'Yanwen Qin, Xin Jin'
     venue: 'Conference name'
-    year: '2016'
+    year: '2017'
 ```
 
 
