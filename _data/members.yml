@@ -6,7 +6,7 @@
 
 - name: Yanqin Chen
   image: yanqinchen.jpg
-  text: PhD Candidate (4th Year), THU
+  text: PhD Candidate (3rd Year), THU
   social:
     - title: envelope #use for email address
       url: mailto:809340262@qq.com
@@ -15,7 +15,7 @@
 
 - name: Xiaoyu Wang
   image: xiaoyuwang.jpg
-  text: PhD Candidate (2nd Year), THU
+  text: PhD Candidate (1st Year), THU
   social:
     - title: envelope #use for email address
       url: mailto:1210040809@qq.com
@@ -24,7 +24,7 @@
 
 - name: Zhouping Wang
   image: zhoupingwang.jpg
-  text: Master Student (3rd Year), THU 
+  text: Master Student (2nd Year), THU 
   social:
     - title: envelope #use for email address
       url: mailto:591969426@qq.com
@@ -34,7 +34,7 @@
 
 - name: Heng Zhang
   image: hengzhang.jpg
-  text: Master Student (3rd Year), THU 
+  text: Master Student (2nd Year), THU 
   social:
   social:
     - title: envelope #use for email address
@@ -44,7 +44,7 @@
 
 - name: Pei Wang
   image: peiwang.jpg
-  text: Master Student (2nd Year), THU
+  text: Master Student (1st Year), THU
   social:
     - title: envelope #use for email address
       url: mailto:wangpei.zi35@qq.com
@@ -53,7 +53,7 @@
       
 - name: Chuanpu Li
   image: chuanpuli.jpg
-  text: Master Student (2nd Year), THU
+  text: Master Student (1st Year), THU
   social:
     - title: envelope #use for email address
       url: mailto:licup2012@163.com
@@ -62,7 +62,7 @@
 
 - name: Lingjun Li
   image: lingjunli.jpg
-  text: Master Student (2nd Year), THU
+  text: Master Student (1st Year), THU
   social:
     - title: envelope #use for email address
       url: mailto:877604242@qq.com
@@ -71,7 +71,7 @@
 
 - name: Junke Li
   image: junkeli.jpg
-  text: Master Student (2nd Year), THU
+  text: Master Student (1st Year), THU
   social:
     - title: envelope #use for email address
       url: mailto:lijunke276@qq.com
@@ -81,7 +81,7 @@
 
 - name: David Mao
   image: david.jpg
-  text: Master Student (2nd Year), THU
+  text: Master Student (1st Year), THU
   social:
     - title: envelope #use for email address
       url: mailto:maoswd10@mails.tsinghua.edu.cn
@@ -91,7 +91,7 @@
 
 - name: Xufu Sun
   image: xufusun.jpg
-  text: Master Student (1st Year), THU
+  text: Master Student (tobe 1st Year), THU
   social:
     - title: envelope #use for email address
       url: mailto:sun_xufu@163.com
@@ -100,7 +100,7 @@
 
 - name: Tingting Zhong
   image: tingtingzhong.jpg
-  text: Master Student (1st Year), THU
+  text: Master Student (tobe 1st Year), THU
   social:
     - title: envelope #use for email address
       url: mailto:2280779231@qq.com
